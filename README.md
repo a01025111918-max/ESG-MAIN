@@ -103,15 +103,29 @@ Final Project PDF: [📄 파이널 프로젝트 발표자료](./ESG_파이널프
 
 
 
+
+
+
+
 (1) 프론트엔드
 
 
 
 
 
-    <img width="668" height="835" alt="image" src="https://github.com/user-attachments/assets/99d53708-77b3-459e-97aa-9a3aab6a139a" />
+
+
+
+ <img width="668" height="835" alt="image" src="https://github.com/user-attachments/assets/99d53708-77b3-459e-97aa-9a3aab6a139a" />
     <img width="1007" height="691" alt="image" src="https://github.com/user-attachments/assets/cf567cb4-cb19-4a7c-bd5d-b1a67b3f0c8f" />
     <img width="747" height="450" alt="image" src="https://github.com/user-attachments/assets/42913e1f-38b3-4f4c-93f9-7eeeb9af77db" />
+
+
+
+
+
+
+   
 
 
 
