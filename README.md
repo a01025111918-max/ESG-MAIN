@@ -30,6 +30,13 @@ Final Project PDF: [📄 파이널 프로젝트 발표자료](./ESG_파이널프
 
 
 
+
+
+
+
+
+
+
 2) 마이페이지 (회원정보, 최근 선택 메뉴, 나의 게시글, 내가 작성한 후기, 제보/신고 내역, 즐겨찾기)<br>
 
 <img width="1012" height="570" alt="image" src="https://github.com/user-attachments/assets/2f13c349-54f5-4d6d-bb4f-6004bc1e2100" />
