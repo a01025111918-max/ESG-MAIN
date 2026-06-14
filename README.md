@@ -54,13 +54,18 @@ Final Project PDF: [📄 파이널 프로젝트 발표자료](./ESG_파이널프
 
 1. 회원가입
   (1) 프론트엔드
+
+
+
    <img width="801" height="510" alt="image" src="https://github.com/user-attachments/assets/21a88bb7-8274-42f9-94e7-356aa98d6ae2" />
    <img width="706" height="725" alt="image" src="https://github.com/user-attachments/assets/0b5960ab-87d4-47d8-995a-41edff419fe2" />
 
    (2) 백엔드 
 
-2. 로그인
+3. 로그인
    (1) 프론트엔드
+
+   
    <img width="567" height="628" alt="image" src="https://github.com/user-attachments/assets/ba5f3baa-7c69-4f15-b15d-f5aa14223191" />
    <img width="718" height="762" alt="image" src="https://github.com/user-attachments/assets/3a797873-19ca-4a3e-8b33-0eb957dba212" />
    <img width="961" height="798" alt="image" src="https://github.com/user-attachments/assets/d6a20a9e-1e50-49d6-a06d-b6ed154d2acd" />
@@ -71,7 +76,7 @@ Final Project PDF: [📄 파이널 프로젝트 발표자료](./ESG_파이널프
 
 
   
-4. 
+5. 
 
    
 
