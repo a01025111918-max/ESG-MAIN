@@ -18,6 +18,8 @@ Final Project PDF: [📄 파이널 프로젝트 발표자료](./ESG_파이널프
 내가 구현한 주요 기능 및 주요 상세<br>
 1) 회원 가입 및 로그인, 로그아웃<br>
 <img width="957" height="397" alt="image" src="https://github.com/user-attachments/assets/6be792e5-37e8-47ad-b029-01cd37c1618a" />
+<img width="1002" height="565" alt="image" src="https://github.com/user-attachments/assets/831b08d7-f79b-43a6-bd31-ddc30cd20b7c" />
+
 
 
 2) 회원 정보 수정 (프로필 이미지, 회원 탈퇴 등)<br>
