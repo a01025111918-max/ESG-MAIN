@@ -19,6 +19,13 @@ Final Project PDF: [📄 파이널 프로젝트 발표자료](./ESG_파이널프
 1) 회원 가입 및 로그인, 로그아웃<br>
 <img width="957" height="397" alt="image" src="https://github.com/user-attachments/assets/6be792e5-37e8-47ad-b029-01cd37c1618a" />
 <img width="1002" height="565" alt="image" src="https://github.com/user-attachments/assets/831b08d7-f79b-43a6-bd31-ddc30cd20b7c" />
+<img width="1007" height="570" alt="image" src="https://github.com/user-attachments/assets/4676c224-fd88-4d5a-b21a-9c1f26ee9166" />
+<img width="1016" height="566" alt="image" src="https://github.com/user-attachments/assets/71aa9f1c-482c-4e90-9a90-2f0ca49460f2" />
+<img width="1015" height="567" alt="image" src="https://github.com/user-attachments/assets/bdb7ffaf-550f-46de-8665-efeadda7e0d1" />
+
+
+
+
 
 
 
