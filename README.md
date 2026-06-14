@@ -30,13 +30,20 @@ Final Project PDF: [📄 파이널 프로젝트 발표자료](./ESG_파이널프
 
 
 
+2) 마이페이지 (회원정보, 최근 선택 메뉴, 나의 게시글, 내가 작성한 후기, 제보/신고 내역, 즐겨찾기)<br>
+
+<img width="1012" height="570" alt="image" src="https://github.com/user-attachments/assets/2f13c349-54f5-4d6d-bb4f-6004bc1e2100" />
+<img width="998" height="570" alt="image" src="https://github.com/user-attachments/assets/95c2fe2a-57cb-4355-9c5f-0910f1039f8f" />
+<img width="983" height="557" alt="image" src="https://github.com/user-attachments/assets/2f38fe5d-2816-4c2d-8feb-e0244cbddd0a" />
+<img width="998" height="557" alt="image" src="https://github.com/user-attachments/assets/13d6f830-88bb-432a-b046-b1eff237b090" />
+<img width="996" height="562" alt="image" src="https://github.com/user-attachments/assets/cf2c1d96-0f73-41d0-8d6f-10214c0b61e0" />
 
 
 
 
-2) 회원 정보 수정 (프로필 이미지, 회원 탈퇴 등)<br>
-3) 회원 등급 (일반 회원, 관리자)<br>
-4) 마이페이지 (회원정보, 최근 선택 메뉴, 나의 게시글, 내가 작성한 후기, 제보/신고 내역, 즐겨찾기)<br>
+
+
+
 
 
 
