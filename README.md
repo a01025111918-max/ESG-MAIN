@@ -60,7 +60,15 @@ Final Project PDF: [📄 파이널 프로젝트 발표자료](./ESG_파이널프
    <img width="801" height="510" alt="image" src="https://github.com/user-attachments/assets/21a88bb7-8274-42f9-94e7-356aa98d6ae2" />
    <img width="706" height="725" alt="image" src="https://github.com/user-attachments/assets/0b5960ab-87d4-47d8-995a-41edff419fe2" />
 
-   (2) 백엔드 
+   (2) 백엔드
+
+
+
+   <img width="892" height="741" alt="image" src="https://github.com/user-attachments/assets/ab73404f-c772-4eb7-9451-529bc554ba91" />
+   <img width="652" height="387" alt="image" src="https://github.com/user-attachments/assets/ccf6356b-f3d7-4fc7-99d4-7802ad153be6" />
+
+   
+
 
 3. 로그인
    (1) 프론트엔드
@@ -69,6 +77,23 @@ Final Project PDF: [📄 파이널 프로젝트 발표자료](./ESG_파이널프
    <img width="567" height="628" alt="image" src="https://github.com/user-attachments/assets/ba5f3baa-7c69-4f15-b15d-f5aa14223191" />
    <img width="718" height="762" alt="image" src="https://github.com/user-attachments/assets/3a797873-19ca-4a3e-8b33-0eb957dba212" />
    <img width="961" height="798" alt="image" src="https://github.com/user-attachments/assets/d6a20a9e-1e50-49d6-a06d-b6ed154d2acd" />
+
+
+
+   (2) 백엔드
+
+
+
+
+  <img width="1292" height="826" alt="image" src="https://github.com/user-attachments/assets/4f2216e5-f50f-4c9c-9b59-eadec84f976d" />
+  <img width="987" height="725" alt="image" src="https://github.com/user-attachments/assets/dd0854f2-578b-4045-b038-4011e7cc62e9" />
+
+  
+
+
+
+
+   
 
 
 
