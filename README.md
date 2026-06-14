@@ -53,7 +53,10 @@ Final Project PDF: [📄 파이널 프로젝트 발표자료](./ESG_파이널프
 핵심 코드
 
 1. 회원가입
-  (1) 프론트엔드
+
+
+
+(1) 프론트엔드
 
 
 
@@ -72,6 +75,9 @@ Final Project PDF: [📄 파이널 프로젝트 발표자료](./ESG_파이널프
 
 
 3. 로그인
+
+
+
    (1) 프론트엔드
 
    
@@ -93,16 +99,38 @@ Final Project PDF: [📄 파이널 프로젝트 발표자료](./ESG_파이널프
 
 
 
+3. 마이페이지
 
+
+
+(1) 프론트엔드
+
+
+
+
+
+    <img width="668" height="835" alt="image" src="https://github.com/user-attachments/assets/99d53708-77b3-459e-97aa-9a3aab6a139a" />
+    <img width="1007" height="691" alt="image" src="https://github.com/user-attachments/assets/cf567cb4-cb19-4a7c-bd5d-b1a67b3f0c8f" />
+    <img width="747" height="450" alt="image" src="https://github.com/user-attachments/assets/42913e1f-38b3-4f4c-93f9-7eeeb9af77db" />
+
+
+
+
+    --> 쭉 나열해가면서 case 문에서 셋팅한 로직을 아래 자식 컴포넌트에서 수행. 
+
+    
+
+
+
+
+  
+
+  
+
+
+
+(2) 백엔드
    
-
-
-
-  
-
-
-  
-5. 
 
    
 
