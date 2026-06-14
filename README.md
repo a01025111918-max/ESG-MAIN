@@ -143,8 +143,34 @@ Final Project PDF: [📄 파이널 프로젝트 발표자료](./ESG_파이널프
 
 
 
-(2) 백엔드
-   
+(2) 백엔드(프로필 이미지 업로드만 캡쳐)
+
+
+
+
+
+
+
+
+
+<img width="1132" height="631" alt="image" src="https://github.com/user-attachments/assets/2d77debc-5bfe-470e-b988-26b4fd210b91" />
+<img width="1057" height="762" alt="image" src="https://github.com/user-attachments/assets/b789a1c6-17ad-42b4-b61c-a9159d7eaa9f" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
    
 
